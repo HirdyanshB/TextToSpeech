@@ -1,6 +1,6 @@
 # Text to Speech Converter
 
-This is a simple web application that converts text input into speech using the Web Speech API. It allows users to type in text and listen to it being read aloud in various voices.
+This is a web application that converts text input into speech using the Web Speech API. It allows users to type in text and listen to it being read aloud in various voices.
 
 ## Features
 
